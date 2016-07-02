@@ -1,0 +1,14 @@
+{
+  "author": "kubuxu",
+  "bugs": {
+    "url": "https://github.com/Kubuxu/go-scope/issues"
+  },
+  "gx": {
+    "dvcsimport": "github.com/Kubuxu/go-scope"
+  },
+  "gxVersion": "0.7.0",
+  "language": "go",
+  "license": "MIT",
+  "name": "go-scope",
+  "version": "0.0.1"
+}
